@@ -41,7 +41,7 @@ function Restaurants() {
         <h2>{id}-{name}</h2>
         </div>
         <div className="container">
-        <img src={image} width="350px" alt="image"/>
+        <img src={image} width="350px" alt="italy"/>
         </div> 
         <div className="container">
         <p>{address} {hours} {source}</p>
