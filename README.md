@@ -1,3 +1,26 @@
+# Project's Title
+VisitPlaces
+
+#Project Description 
+The VisitPlaces project is a user-friendly web application designed to help travelers discover and explore amazing destinations in Italy. Whether you're planning a trip or just looking to satisfy your wanderlust, VisitPlaces provides curated lists of attractions and restaurants. 
+
+#Features 
+Destination Information: Detailed descriptions of various Italian cities and regions, including historical context, cultural highlights, and local attractions.
+
+Event Listings: Information on upcoming events.
+
+Photo Gallery: A collection of stunning images showcasing different destinations to inspire travelers.
+
+Booking Options: Links or integrations to book restaurants reservations
+
+Delete Item from the list: Remove item if you no longer need.
+
+
+#Technologies Used 
+Frontend: React.js 
+Styling: CSS
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
