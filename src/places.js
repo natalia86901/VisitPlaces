@@ -36,7 +36,7 @@ function Places() {
             </p>
             </div>
             <div className ="container">
-            <img src={image} alt="image" width="400px"/>
+            <img src={image} alt="city" width="400px"/>
             </div>
             <div className='container'>
             <button onClick={() => removeItem(id)}>Remove</button>
